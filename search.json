@@ -4,21 +4,7 @@
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/newpost/index.html",
-    "href": "posts/newpost/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "NEWPOST\n\n12+6\n\n[1] 18"
-  },
-  {
-    "objectID": "posts/even newer post/index.html",
-    "href": "posts/even newer post/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "Even newer post!\n\n12+6\n\n[1] 18"
+    "text": "I wanted to learn a couple of new things this year. Dabbled in switching automating parameterised report in markdown to quarto, and also wanted to have an online store of notes with code snippets so decided to have a go at opening up this blog (which was really easy and something Ill probably add a post about). Also wanted to pciked up more javascript visualising, basically using D3, which quarto can offer in reports that use R and python in the same script, which is nice."
   },
   {
     "objectID": "about.html",
@@ -30,22 +16,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "blogtest",
+    "title": "blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 21, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 21, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 21, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 21, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 18, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/final/index.html",
-    "href": "posts/final/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "Final test\n\n12+6\n\n[1] 18"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 25, 2025\n\n\nAsh\n\n\n\n\n\n\nNo matching items"
   }
 ]
